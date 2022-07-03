@@ -1,4 +1,4 @@
-# test
+# my-vue3-template
 
 相比于vite自带的vue+ts模板,
 
